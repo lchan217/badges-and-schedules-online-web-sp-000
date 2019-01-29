@@ -22,5 +22,6 @@ def printer(name)
   new = []
   name.each do |x|
     new.push("Hello, my name is |x|.")
-    
+  end
+  new
 end
