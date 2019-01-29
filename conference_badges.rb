@@ -10,5 +10,6 @@ def batch_badge_creator(name)
   new
 end 
 
-def assign_rooms
+def assign_rooms(name)
+  
 end 
