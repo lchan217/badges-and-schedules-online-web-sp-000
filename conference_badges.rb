@@ -5,7 +5,7 @@ end
 def batch_badge_creator(name)
   new = []
   name.each do |x|
-    new.push("Hello, my name is #{name.chomp}.")
+    new << "Hello, my name is #{name}."
   end
   new
 end 
